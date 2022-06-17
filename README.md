@@ -4,10 +4,14 @@
 
 🙋‍♂️ [noppytinto (Francesco Scutellaro)](https://github.com/noppytinto)
 
+</br>
+
 ## Personal Website
 
    - [website link](https://fscutellaro.netlify.app/)
    - [github project](https://github.com/noppytinto)
+
+</br>
 
 ## Websites/Web Apps
 
