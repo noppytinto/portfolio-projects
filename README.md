@@ -4,6 +4,11 @@
 
 🙋‍♂️ [noppytinto](https://github.com/noppytinto)
 
+## Personal Website
+
+   - [link](https://fscutellaro.netlify.app/)
+   - [github project](https://github.com/noppytinto)
+
 ## Websites/Web Apps
 
 - [Cinemates](https://github.com/noppytinto/portfolio-react-cinemates) (mobile web app)
