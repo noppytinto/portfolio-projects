@@ -1,15 +1,12 @@
 # portfolio-projects
 
-## Github Profile
-
-🙋‍♂️ [noppytinto (Francesco Scutellaro)](https://github.com/noppytinto)
-
-</br>
-
-## Personal Website
-
-   - [website link](https://fscutellaro.netlify.app/)
-   - [github project](https://github.com/noppytinto)
+## Contact Info
+- [linkedin](https://www.linkedin.com/in/francesco-scutellaro)
+- email: <francesco.scutellaro@gmail.com>
+- [github](https://github.com/noppytinto)
+- personal website
+   - [live website](https://fscutellaro.netlify.app/)
+   - [website source](https://github.com/noppytinto)
 
 </br>
 
