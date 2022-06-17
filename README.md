@@ -2,7 +2,7 @@
 
 ## Github Profile
 
-🙋‍♂️ [noppytinto](https://github.com/noppytinto)
+🙋‍♂️ [noppytinto (Francesco Scutellaro)](https://github.com/noppytinto)
 
 ## Personal Website
 
