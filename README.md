@@ -6,7 +6,7 @@
 - [github](https://github.com/noppytinto)
 - personal website
    - [live website](https://fscutellaro.netlify.app/)
-   - [website source](https://github.com/noppytinto)
+   - [website source](https://github.com/noppytinto/personal-website)
 
 </br>
 
