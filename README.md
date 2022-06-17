@@ -6,7 +6,7 @@
 
 ## Personal Website
 
-   - [link](https://fscutellaro.netlify.app/)
+   - [website link](https://fscutellaro.netlify.app/)
    - [github project](https://github.com/noppytinto)
 
 ## Websites/Web Apps
