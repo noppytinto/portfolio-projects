@@ -1,10 +1,11 @@
 # portfolio-projects
 
 ## Contact Info
-- [linkedin](https://www.linkedin.com/in/francesco-scutellaro)
-- email: <francesco.scutellaro@gmail.com>
-- [github](https://github.com/noppytinto)
-- personal website
+
+- Linkedin: [Francesco Scutellaro](https://www.linkedin.com/in/francesco-scutellaro)
+- Email: <francesco.scutellaro@gmail.com>
+- Github Profile: [noppytinto](https://github.com/noppytinto)
+- Personal Website
    - [live website](https://fscutellaro.netlify.app/)
    - [website source](https://github.com/noppytinto/personal-website)
 
