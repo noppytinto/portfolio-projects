@@ -6,7 +6,7 @@
 - Email: <francesco.scutellaro@gmail.com>
 - Github Profile: [noppytinto](https://github.com/noppytinto)
 - Personal Website
-   - [live website](https://fscutellaro.netlify.app/)
+   - [live link](https://fscutellaro.netlify.app/)
    - [website source](https://github.com/noppytinto/personal-website)
 
 </br>
