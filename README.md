@@ -11,8 +11,8 @@
 ## Websites/Web Apps
 
 - Personal Website
-   - [live link](https://fscutellaro.netlify.app/)
-   - [website source](https://github.com/noppytinto/personal-website)
+   - [visit website](https://fscutellaro.netlify.app/)
+   - [source code](https://github.com/noppytinto/personal-website)
 
 - [Cinemates](https://github.com/noppytinto/portfolio-react-cinemates) (mobile web app)
 
