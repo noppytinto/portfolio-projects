@@ -25,6 +25,12 @@
 
 </br>
 
+## Mini Project Challenges
+- [infiite scroll gallery](https://github.com/noppytinto/practice-web--infinite-scroll)
+- [light/dark mode](https://github.com/noppytinto/practice-web--dark-theme)
+- [kanban task manager](https://github.com/noppytinto/practice-web--drag-n-drop)
+
+
 ## Frontend Mentor Challenges
 
 - [Base Apparel coming soon page](https://github.com/noppytinto/frontendmentor-09-base-apparel-coming-soon)
